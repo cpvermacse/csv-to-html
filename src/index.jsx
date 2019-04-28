@@ -1,13 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-class App extends React.Component {
-    render() {
-        return (
-            <div>My Flask React App!</div>
-        );
-    }
-}
+import App from './app/app.jsx';
 
 ReactDOM.render(<App />, document.getElementById('app'));

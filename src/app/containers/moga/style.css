@@ -1,0 +1,25 @@
+.custom-row {
+    display: flex;
+    margin: 10px;
+}
+
+.custom-row > div {
+    width: 50%;
+    padding: 10px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column
+}
+
+.column > div {
+    margin: 5px 0px;
+}
+
+.file-uploader {
+    margin: auto 15px;
+}
+.btn-margin{
+    margin-left: 6px
+}
