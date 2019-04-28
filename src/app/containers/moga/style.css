@@ -23,3 +23,17 @@
 .btn-margin{
     margin-left: 6px
 }
+.user-input{
+    width: 25%;
+    margin-left: 10px;
+    height: 31px;
+}
+
+.input-box{
+    margin-top: 10px;
+    margin-left:20px
+}
+
+.validate-button{
+    margin-left: 15px
+}
